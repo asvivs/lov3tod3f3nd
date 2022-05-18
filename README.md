@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there, I'm Asvitha 👋
 
-<!--
-**lov3tod3f3nd/lov3tod3f3nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a CSE student and Aspiring Cyber Security Professional.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Cyber security, Python.
+- 👀 I am interested to learn new things everyday!
+- 🥅 Today's Goal -> I want to be a better person than yesterday :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://asvithavs.wixsite.com/my-site-3#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://asvithavs.wixsite.com/my-site-3#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCVFL#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVFL#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/asvitha_vs#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/asvitha_vs#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)]( https://www.linkedin.com/in/asvitha-v-s-562aa41aa/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)]( https://www.linkedin.com/in/asvitha-v-s-562aa41aa/#gh-dark-mode-only)
+
+<br />
+
+### 📺 My Youtube Channel
+
+<!-- YOUTUBE:START -->
+- [Let's learn & grow together](https://www.youtube.com/channel/UCVFLegjgN97k4AkyX6nHAOQ/videos)
+<!-- YOUTUBE:END -->
+
+[website]: https://asvithavs.wixsite.com/my-site-3
+[youtube]: https://www.youtube.com/channel/UCVFL
+[twitter]: https://twitter.com/asvitha_vs
+[linkedin]: https://www.linkedin.com/in/asvitha-v-s-562aa41aa/
