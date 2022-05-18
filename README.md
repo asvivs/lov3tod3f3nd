@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="asvithavs.wixsite.com/my-site-3 | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
-[<img align="left" alt="twitter.com/asvitha_vs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
+[<img align="left" alt="asvithavs.wixsite.com/my-site-3 | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
+[<img align="left" alt="twitter.com/asvitha_vs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="in/asvitha-v-s-562aa41aa/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### 📺 My Youtube Channel
