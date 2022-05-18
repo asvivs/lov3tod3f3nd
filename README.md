@@ -20,7 +20,6 @@
 [![website](./img/linkedin-light.svg)]( https://www.linkedin.com/in/asvitha-v-s-562aa41aa/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)]( https://www.linkedin.com/in/asvitha-v-s-562aa41aa/#gh-dark-mode-only)
 
-<br />
 
 ### 📺 My Youtube Channel
 
