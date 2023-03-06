@@ -1,8 +1,8 @@
 ### Hi there, I'm Asvitha 👋
 
-## I'm a CSE student and Aspiring Cyber Security Professional.
+## I'm a CSE student.
 
-- 🌱 I’m currently learning Cyber security, Python.
+- 🌱 I’m currently learning things required to survive in this Technology world!!!!.
 - 👀 I am interested to learn new things everyday!
 - 🥅 Today's Goal -> I want to be a better person than yesterday :)
 
